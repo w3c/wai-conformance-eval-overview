@@ -1,13 +1,15 @@
 ---
-title: Conformance Evaluation
+title: Conformance Evaluation Overview
 layout: default
 ---
 
-[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology](/test-evaluate/conformance/methodology/)
-:   Introduces the WCAG-EM technical report, an approach for determining
-    how well a website conforms to Web Content Accessibility Guidelines
-    (WCAG) 2.0.
+<p>Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).</p>
 
-[WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/)
-:   Helps you generate website accessibility evaluation reports
-    according to WCAG-EM.
+<dl>
+<dt><a href="https://www.w3.org/WAI/eval/conformance.html">WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology</a></dt>
+<dd>A short page with basic information to get you started. We suggest you read it before going to the <a href="https://www.w3.org/TR/WCAG-EM/">full WCAG-EM document <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a>.</dd>
+<dt><a href="https://www.w3.org/WAI/eval/report-tool/#/">WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
+<dd> Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input  you provide.</dd>
+</dl>
+
+<p>Related resources are described in: <a href="https://w3c.github.io/wai-eval-overview/evaluation/">Evaluating Web Accessibility Overview</a></p>
