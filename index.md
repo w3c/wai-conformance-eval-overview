@@ -2,6 +2,8 @@
 title: Conformance Evaluation Overview
 layout: default
 permalink: /test-evaluate/conformance/
+github:
+  repository: w3c/wai-conformance-eval-overview
 footer: >
   @@@
 ---
