@@ -4,8 +4,6 @@ layout: default
 permalink: /test-evaluate/conformance/
 github:
   repository: w3c/wai-conformance-eval-overview
-footer: >
-  @@@
 ---
 
 <p>Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).</p>
