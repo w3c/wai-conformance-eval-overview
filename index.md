@@ -5,10 +5,10 @@ permalink: /test-evaluate/conformance/
 github:
   repository: w3c/wai-conformance-eval-overview
 footer: >
-  <p>Note about description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcripts with Description of Visuals (“descriptive transcripts”).</p>
+  <p>Note about description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
    <p><strong>Date:</strong> Updated 10 March 2020.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
-   <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="@@">Acknowledgments</a>.</p>
+   <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
 
 <p>Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).</p>
@@ -21,7 +21,7 @@ This abuses the video-card component and tries to make it work with an embedded 
       yt-id="wlCcDnL-evE"
       captions="https://media.w3.org/wai/evaluation-intros/conformance-evaluation-cc.vtt"
   %}
-  <p><a href="#alternatives">Alternatives for Comprehensive Evaluation</a></p>
+  <p><a href="#alternatives">Alternatives for Conformance Evaluation Overview Video</a></p>
 </div>
 
 <dl>
@@ -38,13 +38,13 @@ This abuses the video-card component and tries to make it work with an embedded 
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
-##  Alternatives for Comprehensive Evaluation {#alternatives}
+##  Alternatives for Conformance Evaluation Overview Video {#alternatives}
 
 {% include excol.html type="middle" %}
 
-<p><a href="http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4">Comprehensive Evaluation on a W3C server (file format: MP4, file size: 30MB)</a></p>
+<p><a href="http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"> Conformance Evaluation Overview Video on a W3C server (file format: MP4, file size: 30MB)</a></p>
 
-###  Text Transcript with Description of Visuals for Comprehensive Evaluation {#transcript}
+###  Text Transcript with Description of Visuals for Conformance Evaluation Overview Video {#transcript}
 
 The videos have basic animation that illustrates what is said by an off-screen voice. People are represented by icon figures. 
 
@@ -128,4 +128,3 @@ The videos have basic animation that illustrates what is said by an off-screen v
 </table>
 
 {% include excol.html type="end" %}
-
