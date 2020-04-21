@@ -5,8 +5,8 @@ permalink: /test-evaluate/conformance/
 github:
   repository: w3c/wai-conformance-eval-overview
 footer: >
-  <p>Note about description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-   <p><strong>Date:</strong> Updated 10 March 2020.</p>
+  <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
+   <p><strong>Date:</strong> Updated 28 April 2020.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
    <p>Videos developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
@@ -16,9 +16,9 @@ footer: >
 {% comment %}
 This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
 {% endcomment %}
-<div class="video-card">
+<div class="video-card" id="video-intro">
   {% include video-player.html
-      yt-id="wlCcDnL-evE"
+      yt-id="u-mOCGX8ckw"
       captions="https://media.w3.org/wai/evaluation-intros/conformance-evaluation-cc.vtt"
   %}
   <p><a href="#alternatives">Alternatives for Conformance Evaluation Overview Video</a></p>
@@ -42,7 +42,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 
 {% include excol.html type="middle" %}
 
-<p><a href="http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4"> Conformance Evaluation Overview Video on a W3C server (file format: MP4, file size: 30MB)</a></p>
+_This video is also available on a W3C server: [Video: Conformance Evaluation Overview (file format: MP4, file size: 30MB)](http://media.w3.org/wai/evaluation-intros/conformance-evaluation.mp4)._
 
 ###  Text Transcript with Description of Visuals for Conformance Evaluation Overview Video {#transcript}
 
