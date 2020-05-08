@@ -1,5 +1,5 @@
 ---
-title: Conformance Evaluation Overview
+title: Conformance Evaluation and Reports Overview
 layout: default
 permalink: /test-evaluate/conformance/
 github:
@@ -28,8 +28,12 @@ This abuses the video-card component and tries to make it work with an embedded 
 <dt><a href="{{ "/test-evaluate/conformance/wcag-em/" | relative_url }}">WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology</a></dt>
 <dd>A short page with basic information to get you started. We suggest you read it before going to the <a href="https://www.w3.org/TR/WCAG-EM/">full WCAG-EM document <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a>.</dd>
 <dt><a href="https://www.w3.org/WAI/eval/report-tool/#/">WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
-<dd> Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input  you provide.</dd>
+<dd>Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input  you provide.</dd>
+<dt><a href="https://www.w3.org/WAI/test-evaluate/report-template/">Template for Web Accessibility Evaluation Reports</dt>
+<dd>Suggests information to include in a report.</dd>
 </dl>
+
+Communicate the results of evaluation clearly, including the scope of the evaluation.
 
 <p>Related resources are described in: <a href="{{ "/test-evaluate/" | relative_url }}">Evaluating Web Accessibility Overview</a></p>
 
