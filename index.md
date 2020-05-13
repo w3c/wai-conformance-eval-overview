@@ -19,7 +19,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <div class="video-card" id="video-intro">
   {% include video-player.html
       yt-id="u-mOCGX8ckw"
-      captions="conformance-evaluation-cc.vtt|en|Captions"
+      captions="/content-images/wai-conformance-eval-overview/conformance-evaluation-cc.vtt|en|Captions"
   %}
   <p><a href="#alternatives">Alternatives for Conformance Evaluation Overview Video</a></p>
 </div>
