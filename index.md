@@ -6,7 +6,7 @@ github:
   repository: w3c/wai-conformance-eval-overview
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-   <p><strong>Date:</strong> Updated 28 April 2020.</p>
+   <p><strong>Date:</strong> Updated 29 June 2020.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
    <p>Video developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
@@ -28,9 +28,11 @@ This abuses the video-card component and tries to make it work with an embedded 
 <dt><a href="{{ "/test-evaluate/conformance/wcag-em/" | relative_url }}">WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology</a></dt>
 <dd>A short page with basic information to get you started. We suggest you read it before going to the <a href="https://www.w3.org/TR/WCAG-EM/">full WCAG-EM document <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a>.</dd>
 <dt><a href="https://www.w3.org/WAI/eval/report-tool/#/">WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
-<dd>Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input  you provide.</dd>
+<dd>Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input you provide.</dd>
 <dt><a href="https://www.w3.org/WAI/test-evaluate/report-template/">Template for Web Accessibility Evaluation Reports</a></dt>
 <dd>Suggests information to include in a report.</dd>
+<dt><a href="https://www.w3.org/WAI/atag/report-tool/">ATAG Report Tool <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
+<dd>Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines (ATAG). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.</dd>
 </dl>
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
