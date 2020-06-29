@@ -32,7 +32,7 @@ This abuses the video-card component and tries to make it work with an embedded 
 <dt><a href="https://www.w3.org/WAI/test-evaluate/report-template/">Template for Web Accessibility Evaluation Reports</a></dt>
 <dd>Suggests information to include in a report.</dd>
 <dt><a href="https://www.w3.org/WAI/atag/report-tool/">ATAG Report Tool <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
-<dd>Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines (ATAG). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.</dd>
+<dd>Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/atag/">ATAG</a>). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.</dd>
 </dl>
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
