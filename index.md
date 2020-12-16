@@ -1,9 +1,18 @@
 ---
-title: Conformance Evaluation and Reports Overview
-layout: default
+title: Conformance Evaluation and Reports
+lang: en
 permalink: /test-evaluate/conformance/
 github:
   repository: w3c/wai-conformance-eval-overview
+last_updated: 2020-06-29
+# translators:   # delete the '#' and the space at the beginning of each line below that you use
+# - name: "first last"
+# contributors:
+# - name: "given family" 
+
+layout: default
+ref: /test-evaluate/conformance/  # translators don't change this
+
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
    <p><strong>Date:</strong> Updated 29 June 2020.</p>
@@ -11,11 +20,8 @@ footer: >
    <p>Video developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
 
-<p>Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).</p>
+Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
 
-{% comment %}
-This abuses the video-card component and tries to make it work with an embedded YouTube player that is enhanced with the AblePlayer library. Remove and replace with regular video-card component in case of bugs.
-{% endcomment %}
 <div class="video-card" id="video-intro">
   {% include video-player.html
       yt-id="u-mOCGX8ckw"
@@ -24,23 +30,23 @@ This abuses the video-card component and tries to make it work with an embedded 
   <p><a href="#alternatives">Alternatives for Conformance Evaluation Overview Video</a></p>
 </div>
 
-<dl>
-<dt><a href="{{ "/test-evaluate/conformance/wcag-em/" | relative_url }}">WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology</a></dt>
-<dd>A short page with basic information to get you started. We suggest you read it before going to the <a href="https://www.w3.org/TR/WCAG-EM/">full WCAG-EM document <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a>.</dd>
-<dt><a href="https://www.w3.org/WAI/eval/report-tool/#/">WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
-<dd>Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input you provide.</dd>
-<dt><a href="https://www.w3.org/WAI/test-evaluate/report-template/">Template for Web Accessibility Evaluation Reports</a></dt>
-<dd>Suggests information to include in a report.</dd>
-<dt><a href="https://www.w3.org/WAI/atag/report-tool/">ATAG Report Tool <img src="https://www.w3.org/Icons/tr.png" alt="different format" /></a></dt>
-<dd>Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines (<a href="https://www.w3.org/WAI/standards-guidelines/atag/">ATAG</a>). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.</dd>
-</dl>
+[[WCAG-EM Overview: Website Accessibility Conformance Evaluation Methodology]](/test-evaluate/conformance/wcag-em/)
+:   A short page with basic information to get you started. We suggest you read it before going to the [full WCAG-EM document](https://www.w3.org/TR/WCAG-EM/).
+
+[WCAG-EM Report Tool: Website Accessibility Evaluation Report Generator](https://www.w3.org/WAI/eval/report-tool/#/)
+:   Helps you generate evaluation reports according to WCAG-EM. It does not do the checking for you. It helps you follow the steps of WCAG-EM and it generates a report from the input you provide.
+
+[[Template for Web Accessibility Evaluation Reports]](/test-evaluate/report-template/)
+:   Suggests information to include in a report.
+
+[ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
+:   Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.
 
 Communicate the results of evaluation clearly, including the scope of the evaluation.
 
-<p>Related resources are described in: <a href="{{ "/test-evaluate/" | relative_url }}">Evaluating Web Accessibility Overview</a></p>
+Related resources are described in: [[Evaluating Web Accessibility Overview]](/test-evaluate/)
 
 <hr>
-
 
 {% include excol.html type="start" id="video-intro-transcript" %}
 
