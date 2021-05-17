@@ -4,6 +4,7 @@ lang: en
 permalink: /test-evaluate/conformance/
 github:
   repository: w3c/wai-conformance-eval-overview
+  path: "content/index.md"
 last_updated: 2020-06-29
 # translators:   # delete the '#' and the space at the beginning of each line below that you use
 # - name: "first last"
