@@ -5,7 +5,7 @@ permalink: /test-evaluate/conformance/
 github:
   repository: w3c/wai-conformance-eval-overview
   path: "content/index.md"
-last_updated: 2020-06-29
+last_updated: 2023-08-01
 # translators:   # delete the '#' and the space at the beginning of each line below that you use
 # - name: "first last"
 # contributors:
@@ -16,7 +16,7 @@ ref: /test-evaluate/conformance/  # translators don't change this
 
 footer: >
   <p>Note about video description: The video on this page does not include synchronized audio description because the visuals only illustrate the audio and do not provide additional information. In this case, audio description would be more distracting than useful to most people, including people who cannot see the visuals. Description of visual information is integrated in the Text Transcript with Description of Visuals (“descriptive transcript”).</p>
-   <p><strong>Date:</strong> Updated 29 June 2020.</p>
+   <p><strong>Date:</strong> Updated 1 August 2023.</p>
    <p><strong>Editor:</strong> <a href="https://www.w3.org/People/Shawn/">Shawn Lawton Henry</a>.</p>
    <p>Video developed by the Education and Outreach Working Group (<a href="http://www.w3.org/WAI/EO/">EOWG</a>) with support from the <a href="https://www.w3.org/WAI/about/projects/wai-guide/">WAI-Guide</a> project funded by the European Commission (EC) under the Horizon 2020 program (Grant Agreement 822245). <a href="./acknowledgements/">Acknowledgements</a>.</p>
 ---
@@ -43,7 +43,12 @@ Conformance evaluation determines how well web pages or applications meet access
 [ATAG Report Tool](https://www.w3.org/WAI/atag/report-tool/)
 :   Helps you generate a report on how a tool meets Authoring Tool Accessibility Guidelines ([ATAG](https://www.w3.org/WAI/standards-guidelines/atag/)). Authoring tools are software and services used to create web content – such as content management systems (CMS) and what-you-see-is-what-you-get (WYSIWYG) HTML editors.
 
-Communicate the results of evaluation clearly, including the scope of the evaluation.
+[Accessibility Conformance Testing (ACT) Rules](/standards-guidelines/act/rules/about/)
+:  Describe how to test conformance of accessibility standards such as WCAG and WAI-ARIA. ACT Rules are primarily used by developers of test tools and methodologies. Accessibility testers may find some rules helpful for evaluating edge cases consistently.
+
+<!-- Communicate the results of evaluation clearly, including the scope of the evaluation. -->
+
+Specifications for expressing test results (EARL) and for writing accessibility test rules (Accessibility Conformance Testing (ACT) Rules Format) are introduced in [Evaluation Standards Overview](/standards-guidelines/evaluation/).
 
 Related resources are described in: [[Evaluating Web Accessibility Overview]](/test-evaluate/)
 
