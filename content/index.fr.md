@@ -1,6 +1,4 @@
 ---
-# Translation info https://www.w3.org/wiki/WAI/Website/Translate
-
 title: Évaluation de la conformité et rapports
 
 lang: fr
