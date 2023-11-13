@@ -27,10 +27,8 @@ L'évaluation de la conformité détermine dans quelle mesure les pages ou les a
 
 <div class="video-card" id="video-intro">
   {% include video-player-data.html
-      yt-id="mOCGX8ckw"
-      path="/content-images/wai-conformance-eval-overview/"
-      vtt-data-location="wai-conformance-eval-overview"
-      vtt-name="conformance-evaluation"
+      video-id="conformance-evaluation"
+      yt-id="u-mOCGX8ckw"
   %}
   <p><a href="#alternatives">Alternatives pour la vidéo "Vue d'ensemble de l'évaluation de la conformité"</a></p>
 </div>
