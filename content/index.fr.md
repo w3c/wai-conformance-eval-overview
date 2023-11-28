@@ -26,12 +26,10 @@ footer: >
 L'évaluation de la conformité détermine dans quelle mesure les pages ou les applications Web sont conformes aux standards d'accessibilité. La méthodologie d'évaluation de la conformité à l'accessibilité d'un site Web de <acronym title="World Wide Web Consortium">W3C</acronym> (WCAG-EM) constitue une approche pour déterminer la conformité aux Règles pour l'accessibilité des contenus Web (WCAG).
 
 <div class="video-card" id="video-intro">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="conformance-evaluation"
       yt-id="u-mOCGX8ckw"
-      path="/content-images/wai-conformance-eval-overview/"
-      captions="conformance-evaluation-cc.vtt|en"
-      subtitles="conformance-evaluation-fr.vtt|fr|default"
- %}
+  %}
   <p><a href="#alternatives">Alternatives pour la vidéo "Vue d'ensemble de l'évaluation de la conformité"</a></p>
 </div>
 

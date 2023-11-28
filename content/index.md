@@ -24,9 +24,9 @@ footer: >
 Conformance evaluation determines how well web pages or applications meet accessibility standards. <acronym title="World Wide Web Consortium">W3C</acronym>'s Website Accessibility Conformance Evaluation Methodology (WCAG-EM) is an approach for determining conformance to Web Content Accessibility Guidelines (WCAG).
 
 <div class="video-card" id="video-intro">
-  {% include video-player.html
+  {% include video-player-data.html
+      video-id="conformance-evaluation"
       yt-id="u-mOCGX8ckw"
-      captions="/content-images/wai-conformance-eval-overview/conformance-evaluation-cc.vtt|en|Captions"
   %}
   <p><a href="#alternatives">Alternatives for Conformance Evaluation Overview Video</a></p>
 </div>
