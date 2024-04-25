@@ -1,1 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f66aee45-cb27-499d-a0fc-906155fd0d30/deploy-status)](https://app.netlify.com/sites/wai-conformance-eval-overview/deploys)
+> [!IMPORTANT]
+> This repository has been archived 26 April 2024.
+>
+> [Conformance Evaluation and Reports](https://www.w3.org/WAI/test-evaluate/conformance/) is now edited in the [wai-website](https://github.com/w3c/wai-website) repository.
